@@ -1,5 +1,5 @@
 # Portfolio of my selected projects
-I have selected these projects to showcase my current skill set and knowledge of Web development. When I started with my Frontend journey my main focus was learning and practicing **HTML5**, **CSS3** and **JavaScript**. I am familiar with **Sass** and love using it in my personal projects. When I'am building landing page projects I'am trying to learn about **Web Accessibility** and to implement it in my projects the best I can at the time.  
+I have selected these projects to showcase my current skill set and knowledge of Web development. When I started with my Frontend journey my main focus was learning and practicing **HTML5**, **CSS3** and **JavaScript**. I am familiar with **Sass** and love using it in my personal projects. When I'am building landing page projects I'am trying to learn about **Web Accessibility** and to implement it in my projects.
 
 The very first JavaScript framework I have started learning has been **Astro** and I find it great for beginners and for building static websites. With Astro I got in touch with concepts such as SSG (Static Site Generator), SSR (Server Side Rendering), routing etc. Right now I am spending most of my time learning **Vue.js**. 
 
