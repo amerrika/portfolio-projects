@@ -11,3 +11,6 @@ The very first JavaScript framework I have started learning has been **Astro** a
 ## Projects built with Vue.js and SCSS
 - [Frontend Mentor Challenge - Multi Step Form](https://github.com/amerrika/multi-step-form)
 - [Frontend Mentor Challenge - Rock Paper Scissors](https://github.com/amerrika/rock-paper-scissors)
+
+## My SCSS Starter
+- [SCSS Starter](https://github.com/amerrika/scss-starter.git)
