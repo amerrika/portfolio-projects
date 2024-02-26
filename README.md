@@ -19,4 +19,5 @@ I have also started learning Node.js/Express/MongoDB with the goal to keep impro
 - [SCSS Starter](https://github.com/amerrika/scss-starter.git)
 
 ## MEVN Stack
-- I am currently working on full stack to-do app that is going to be run locally.
+I am currently working on my first full stack app that is going to be run locally.
+- [Todo App - In Progress](https://github.com/amerrika/todo-app.git)
