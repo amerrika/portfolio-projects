@@ -1,9 +1,9 @@
 # Portfolio of my selected projects
 I have selected these projects to showcase my current skill set and knowledge of Web development. When I started with my Frontend journey my main focus was learning and practicing **HTML5**, **CSS3** and **JavaScript**. I am familiar with **Sass** and love using it in my personal projects. When I'm building landing page projects I'm trying to learn about **Web Accessibility** and to implement it in my projects.
 
-The very first JavaScript framework I have started learning has been **Astro** and I find it great for beginners and for building static websites. With Astro I came across many concepts such as components, props, SSG (Static Site Generator), SSR (Server Side Rendering), routing etc. Right now I am spending most of my time learning **Vue.js**. 
+The first JavaScript framework I started learning has been **Astro** and I find it great for beginners and for building static websites. With Astro I came across many concepts such as components, props, SSG (Static Site Generator), SSR (Server Side Rendering), routing etc. Right now I'm focused on learning **Vue.js**. 
 
-I have also started learning Node.js/Express/MongoDB with the goal to keep improving my understanding of Web Development and eventually to create an app that communicates with database.
+I have also started learning Node.js/Express/MongoDB with the goal to keep improving my understanding of Web Development and to build Full-stack Apps.
 
 ## Projects built with Astro, JavaScript and SCSS
 - [Frontend Mentor Challenge -Rest Countries](https://github.com/amerrika/rest-countries-astro.git)
