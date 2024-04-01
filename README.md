@@ -14,7 +14,7 @@ I have also started learning Node.js/Express/MongoDB with the goal to keep impro
 - [Frontend Mentor Challenge - Multi Step Form](https://github.com/amerrika/multi-step-form)
 - [Frontend Mentor Challenge - Rock Paper Scissors](https://github.com/amerrika/rock-paper-scissors)
 - [Frontend Mentor Challenge - Calculator App](https://github.com/amerrika/calculator-app.git)
-- [Single List Drag and Drop](https://github.com/amerrika/drag-drop-vue.git)
+- [UI Component - Single List Drag and Drop](https://github.com/amerrika/drag-drop-vue.git)
 
 ## My SCSS Starter
 - [SCSS Starter](https://github.com/amerrika/scss-starter.git)
