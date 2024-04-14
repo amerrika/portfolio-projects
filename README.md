@@ -1,11 +1,9 @@
 # Portfolio of my selected projects
 I have selected these projects to showcase my **current skill set** and knowledge of Web development. 
 
-When I started with my Frontend journey my main focus was learning and practicing **HTML5**, **CSS3** and **JavaScript**. I am familiar with **Sass** and love using it in my personal projects, now combining it with **BEM** methodology. When I build landing page projects I try to learn about **Web Accessibility** and to implement it in my projects.
+When I started with my Frontend journey my main focus was learning and practicing **HTML5**, **CSS3** and **JavaScript**. I am familiar with **Scss** and love using it in my personal projects, and recently started combining it with **BEM** methodology. When I build landing page projects I try to learn about **Web Accessibility** and to implement it in my projects.
 
-**Astro** is the first framework I started learning and working with. I find it great for beginners and for building static websites and it's getting more advanced. With Astro I came across many concepts such as components, props, SSG (Static Site Generator), SSR (Server Side Rendering), routing etc. Right now I'm mostly focused on learning **Vue.js**. 
-
-Also, I started learning Node.js/Express/MongoDB with the goal to improve my understanding of Web Development and to build Full-stack Apps.
+**Astro** is the first framework I started learning and working with. I find it great for beginners and for building static websites, although it's capable for advanced projects. With Astro I came across many concepts such as components, props, SSG (Static Site Generator), SSR (Server Side Rendering), routing etc which helped me to understand how frameworks in general work. Right now I'm focused on learning **Vue.js**, **Node.js/Express** and **JSON database**.
 
 ## Projects built with Astro, JavaScript and SCSS
 - [Frontend Mentor Challenge -Rest Countries](https://github.com/amerrika/rest-countries-astro.git)
@@ -21,6 +19,3 @@ Also, I started learning Node.js/Express/MongoDB with the goal to improve my und
 ## My SCSS Starter
 - [SCSS Starter](https://github.com/amerrika/scss-starter.git)
 
-## MEVN Stack
-I am currently working on my first full stack app that is going to be run locally.
-- [Todo App - In Progress](https://github.com/amerrika/todo-desktop-app.git)
