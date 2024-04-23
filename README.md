@@ -19,3 +19,8 @@ When I started with my Frontend journey my main focus was learning and practicin
 ## My SCSS Starter
 - [SCSS Starter](https://github.com/amerrika/scss-starter.git)
 
+## Full Stack (Vue.js, Express, JSON schema database)
+As a freelancer, I'm building my first full stack project for a company in my town. Main task is to automate the process of filling various forms with a local database.
+- [Form Filler - Backend](https://github.com/amerrika/form-filler-backend.git)
+- [Form Filler - Frontend](https://github.com/amerrika/form-filler-frontend)
+
